@@ -1,0 +1,1 @@
+{"version":3,"file":"init.js","sourceRoot":"","sources":["../../src/db/init.ts"],"names":[],"mappings":";;AAAA,wCAAkC;AAClC,MAAM,KAAK,GAAG,OAAO,CAAC,GAAG,CAAC,QAAQ,KAAK,aAAa,CAAA;AAEpD,MAAM,MAAM,GAAG,GAAG,EAAE;IAChB,WAAI,CAAC,IAAI,CAAC,EAAE,KAAK,EAAE,KAAK,EAAC,CAAC,CAAA;AAC9B,CAAC,CAAA;AAED,kBAAe,MAAM,CAAA"}
